@@ -1,4 +1,4 @@
-# CRUSH UI Framework
+# CRUSH UI Template
 
 A reusable TUI framework inspired by the [CRUSH CLI](https://github.com/charmbracelet/crush)
 
@@ -92,3 +92,4 @@ ui_example/
 - `github.com/lucasb-eyer/go-colorful`: Color manipulation
 
 - `github.com/rivo/uniseg`: Unicode text segmentation
+
