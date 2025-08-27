@@ -1,6 +1,6 @@
 # CRUSH UI Framework
 
-A reusable TUI framework inspired by the CRUSH CLI
+A reusable TUI framework inspired by the [CRUSH CLI](https://github.com/charmbracelet/crush)
 
 ![image](./docs/imgs/image.png)
 
@@ -90,4 +90,5 @@ ui_example/
 - `github.com/charmbracelet/bubbletea`: TUI framework
 - `github.com/charmbracelet/lipgloss`: Styling and layout
 - `github.com/lucasb-eyer/go-colorful`: Color manipulation
+
 - `github.com/rivo/uniseg`: Unicode text segmentation
