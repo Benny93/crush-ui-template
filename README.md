@@ -78,7 +78,6 @@ ui_example/
 │   ├── components/          # UI components (styling logic)
 │   ├── providers/           # Provider interfaces and defaults
 │   ├── styles/             # Theme and styling utilities
-│   ├── app.go              # Original app (backward compatibility)
 │   └── reusable_app.go     # New configurable app
 ├── examples/
 │   └── custom_app.go       # Complete customization example
@@ -92,4 +91,5 @@ ui_example/
 - `github.com/lucasb-eyer/go-colorful`: Color manipulation
 
 - `github.com/rivo/uniseg`: Unicode text segmentation
+
 
